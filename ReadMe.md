@@ -25,12 +25,12 @@ Debug与调试几天也是家常便饭 当然现在也实现出来了 还是非�
 
 **System interaction**
 \
-![image](https://user-images.githubusercontent.com/72536813/142834442-5b10816d-4d07-4133-a477-40f2f3663a2a.png)
+![image](https://user-images.githubusercontent.com/72536813/142836107-ddbf47ce-d88b-4880-a409-85e16df0a63a.png)
 
 ----
 **File system**
 \
-![image](https://user-images.githubusercontent.com/72536813/142834799-2a04ab0e-a913-4f86-897b-baceb28d8ffd.png)
+![image](https://user-images.githubusercontent.com/72536813/142836202-77b9e15f-aa63-4436-b27a-8c7db1e3fb62.png)
 
 ----
 **Malloc & Free**
