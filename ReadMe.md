@@ -30,51 +30,28 @@
 **全流程记录博客链接如下：**
 
 **[《操作系统真象还原》第一章 ---- 安装Vmware Station 安装Ubuntu 装载配置Bochs 安装Vmware tools 开始乘帆历险！](https://love6.blog.csdn.net/article/details/117751327)**
-
 **[《操作系统真象还原》第二章 ---- 编写MBR主引导记录 初尝编写的快乐 雏形已显！](https://love6.blog.csdn.net/article/details/117782012)**
-
 **[《操作系统真象还原》第三章 ---- 完善MBR 尝汇编先苦涩后甘甜而再战MBR！](https://love6.blog.csdn.net/article/details/117813233)**
-
 **[《操作系统真象还原》第四章 ---- 剑指Loader 刃刺GDT 开启新纪元保护模式 解放32位](https://love6.blog.csdn.net/article/details/117839108)**
-
 **[《操作系统真象还原》第五章 ---- 轻取物理内存容量 启用分页畅游虚拟空间 力斧直斩内核先劈一角 闲庭信步摸谈特权级](https://love6.blog.csdn.net/article/details/117871478)**
-
 **[《操作系统真象还原》第六章 ---- 开启c语言编写函数时代 首挑打印函数小试牛刀 费心讨力重回gcc降级 终尝多日调试之喜悦](https://love6.blog.csdn.net/article/details/117964307)**
-
 **[《操作系统真象还原》第七章 ---- 终进入中断处理拳打脚踢 操作系统日渐成熟 目前所有代码总览](https://love6.blog.csdn.net/article/details/118002341)**
-
 **[《操作系统真象还原》第八章 ---- 初入内存管理系统 涉足MakeFile 了解摸谈一二](https://love6.blog.csdn.net/article/details/119042923)**
-
 **[《操作系统真象还原》第九章 ---- 终进入线程动斧开刀 豁然开朗拨云见日 还需解决同步机制才能长舒气](https://love6.blog.csdn.net/article/details/119107389)**
-
 **[《操作系统真象还原》第十章 ---- 线程打印尚未成功 仍需此章锁机制完善努力 在前往最终章的路上激流勇进](https://love6.blog.csdn.net/article/details/119179925)**
-
 **[《操作系统真象还原》第十一章 ---- 实现用户进程 欺骗CPU通彻进程原理 眺望终点到达还需砥砺前行](https://love6.blog.csdn.net/article/details/119274248)**
-
 **[《操作系统真象还原》第十二章 ---- 实现系统调用深入浅出 进一步完善堆内存分配与Printf函数 让用户进程有话可说（上）](https://love6.blog.csdn.net/article/details/119315561)**
-
 **[《操作系统真象还原》第十二章 ---- 实现系统调用深入浅出 进一步完善堆内存分配与Printf函数 让用户进程有话可说（下）](https://love6.blog.csdn.net/article/details/119349419)**
-
 **[《操作系统真象还原》第十三章 ---- 编写硬盘驱动软件 行百里者半九十终成时喜悦溢于言表](https://love6.blog.csdn.net/article/details/119354851)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（上一）](https://love6.blog.csdn.net/article/details/119421194)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（上二）](https://love6.blog.csdn.net/article/details/119494541)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（中一）](https://love6.blog.csdn.net/article/details/119523612)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（中二）](https://love6.blog.csdn.net/article/details/119551196)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（下一）](https://love6.blog.csdn.net/article/details/119574834)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（下二）](https://love6.blog.csdn.net/article/details/119602546)**
-
 **[《操作系统真象还原》第十四章 ---- 实现文件系统 任务繁多 饭得一口口吃路得一步步走啊（总结篇）](https://love6.blog.csdn.net/article/details/119615926)**
-
 **[《操作系统真象还原》第十五章 ---- 实现系统交互 操作系统最终章 四十五天的不易与坚持终完结撒花（上）](https://love6.blog.csdn.net/article/details/119638450)**
-
 **[《操作系统真象还原》第十五章 ---- 实现系统交互 操作系统最终章 四十五天的不易与坚持终完结撒花（中）](https://love6.blog.csdn.net/article/details/119672216)**
-
 **[《操作系统真象还原》第十五章 ---- 实现系统交互 操作系统最终章 四十五天的不易与坚持终完结撒花（下）](https://love6.blog.csdn.net/article/details/119685650)**
 
 ------
